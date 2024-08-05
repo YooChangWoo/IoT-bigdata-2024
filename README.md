@@ -63,7 +63,7 @@
 - 빅데이터 실습
     - 스타벅스 입지 분석(계속)
     - 지난주 최종으로 만든 데이터 csv파일 다시 로드
-    - [스벅입지분석](https://github.com/hugoMGSung/Iot-bigdata-2024/blob/main/day3/dba07_starbucks_analysis.ipynb)
+    - [스벅입지분석](https://github.com/YooChangWoo/IoT-bigdata-2024/blob/main/day03/dba07_starbucks_analysis.ipynb)
 
 - 빅데이터 활용방안
     - [강사자바2024](https://github.com/hugoMGSung/bigdata-analysis-2024)
